@@ -15,7 +15,7 @@ It is necessary to increase practical operations related to real projects to bri
 I clearly organized the key concepts and technical details, which is helpful for quick review. Participate effectively in group discussions, exchange ideas with others, and solve problems together. And I do programming practice regularly
 
 ## What do you need to stop or change in your work for this subject overall so far?
-Don't rely solely on the content of textbooks; Expand learning resources, including industry blogs and tutorials. Change the habit of skipping basic exercises; Before undertaking complex tasks, give priority to mastering the basic knowledge.
+Don't rely solely on the content of textbooks; Expand learning resources, including industry blogs and tutorials. Change the habit of skipping basic exercises; Before undertaking complex tasks, give priority to mastering the basic knowledge. 
 
 
 ## What is one request you have or change you suggest for this subject and/or your IT degree overall?

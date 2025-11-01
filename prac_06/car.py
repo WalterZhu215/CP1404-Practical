@@ -1,5 +1,5 @@
 """
-Estimated time: 25min
+Estimated time: 25 min
 Real time: 15min
 """
 
